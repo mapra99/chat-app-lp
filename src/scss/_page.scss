@@ -1,2 +1,29 @@
-body {
+.chat-app-lp {
+  height: 100vh;
+  overflow-x: hidden;
+  position: relative;
+  width: 100vw;
+
+  .bg-decorator {
+    height: 87.5%;
+    position: absolute;
+    width: 500px;
+    z-index: -1;
+
+    &.left {
+      background: linear-gradient(20deg, $light-violet 0%, $light-violet 50%, $light-magenta 120%);
+      border-bottom-left-radius: 50%;
+      border-bottom-right-radius: 50%;
+      left: -80px;
+      top: 0;
+    }
+
+    &.right {
+      background-color: $light-grayish-violet;
+      border-top-left-radius: 50%;
+      border-top-right-radius: 50%;
+      bottom: 0;
+      right: -80px;
+    }
+  }
 }
