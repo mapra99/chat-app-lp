@@ -14,16 +14,16 @@
 
     &.left {
       background: linear-gradient(20deg, $light-violet 0%, $light-violet 50%, $light-magenta 120%);
-      border-bottom-left-radius: 50%;
-      border-bottom-right-radius: 50%;
+      border-bottom-left-radius: 300px;
+      border-bottom-right-radius: 300px;
       left: -80px;
       top: 0;
     }
 
     &.right {
       background-color: $light-grayish-violet;
-      border-top-left-radius: 50%;
-      border-top-right-radius: 50%;
+      border-top-left-radius: 300px;
+      border-top-right-radius: 300px;
       bottom: 0;
       right: -80px;
     }
