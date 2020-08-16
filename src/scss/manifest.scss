@@ -3,5 +3,8 @@
 @import "colors";
 @import "fonts";
 
-// custom styles
-@import "page";
+// custom modules
+@import "phone_layout";
+@import "chat";
+@import "app_description";
+@import "page_layout";
