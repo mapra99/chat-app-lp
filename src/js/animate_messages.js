@@ -4,10 +4,9 @@
   appear(messages[currentIndex]);
 
   messages.forEach((message) => message.addEventListener('animationend', (e) => {
-    console.log("hellooooo")
-    message.classList.remove("appear-left");
-    message.classList.remove("appear-right");
-    message.classList.add("visible");
+    message.classList.remove('appear-left');
+    message.classList.remove('appear-right');
+    message.classList.add('visible');
 
     currentIndex += 1;
     const nextMessage = messages[currentIndex];
