@@ -1,73 +1,74 @@
 # Bookapp - Landing Page :D
 
-> One paragraph statement about the project.
+> With Bookapp you can easily contact dog walkers to book your dog for a sweet walk :)
 
-![screenshot](./app_screenshot.png)
+![screenshot](./docs/desktop-view.png)
 
-Additional description about the project and its features.
+This repo contains a simple landing page for Bookapp.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Plain HTML, CSS and JS
+- Assets management with Webpack
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://chat-app-lp.vercel.app/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
+To get a local copy of a dev environment up and running follow these simple steps.
 
 ### Prerequisites
+- NPM and Node
 
 ### Setup
+1. Clone the repository
+```
+git clone git@github.com:mapra99/chat-app-lp.git
+```
+
+2. `cd` to the project folder
+```
+cd chat-app-lp
+```
 
 ### Install
+1. Install dependencies. We are using npm for this
+```
+npm install
+```
+
+2. Run the dev server
+```
+npm start
+```
 
 ### Usage
+Go to [http://localhost:8080](http://localhost:8080) and see the page :)
 
-### Run tests
+## Author
 
-### Deployment
+👤 **Miguel Prada**
 
+- Github: [@mapra99](https://github.com/mapra99)
+- Twitter: [@MiguelPrada1](https://twitter.com/MiguelPrada1)
+- Linkedin: [mprada](https://linkedin.com/in/mprada)
 
+## Contributing
 
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
+Contributions, issues and feature requests are welcome :)
 
 Feel free to check the [issues page](issues/).
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+Give a star if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Frontendmentor for their amazing designs
 
 ## 📝 License
 
