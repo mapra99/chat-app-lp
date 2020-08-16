@@ -84,8 +84,7 @@
             box-sizing: border-box;
             font-size: 10px;
             height: 35px;
-            line-height: 35px;
-            padding-left: 17.5px;
+            padding: 12.5px 0 12.5px 17.5px;
             width: 225px;
 
             &:focus {
@@ -102,8 +101,9 @@
             font-size: 15px;
             font-weight: 700;
             height: 25px;
-            line-height: 25px;
+            line-height: 17px;
             margin: 5px;
+            padding: 5px 0 5px;
             position: absolute;
             right: 10px;
             text-align: center;
