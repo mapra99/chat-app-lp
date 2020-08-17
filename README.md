@@ -2,7 +2,7 @@
 
 > With Bookapp you can easily contact dog walkers to book your dog for a sweet walk :)
 
-![screenshot](./docs/desktop-view.png)
+![screenshot](./docs/views/desktop-view.png)
 
 This repo contains a simple landing page for Bookapp.
 
